@@ -1,6 +1,6 @@
 @extends('layout.plantilla')
 
-@section('tituloPagina', 'Crear asignatura');
+@section('tituloPagina', 'Crear pregunta');
 
 @section('contenido')
     <div class="card">
